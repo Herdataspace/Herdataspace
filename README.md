@@ -6,11 +6,18 @@
 
 - 🤖 Passionate about using data and ML technology to solve problems in public health, sustainability, education, and combat social inequality!
 
-- 🌱 Training with **AiCORE**
+- 🌱 Training in AI and Data Engineering at <a href="https://www.theaicore.com/">**AiCORE**</a>
 
-- 📫 Reach me on LinkedIn 
+- 📫 Reach me on <a href="https://www.linkedin.com/in/stephanie-hunter111/">LinkedIn</a>
 
 - 😄 Pronouns: she/her
+
+## What I've been up to
+
+- As part of my training with AiCORE, I am working through a number of projects:
+  - **Movie Assistant** - developing basic python syntax to create a command-line application to select a movie from a dictionary of films
+  - **Hangman** - using python and OOP principals create an implementation of the Hangman game - my first project using Git!
+  - **Computer Vision**
 
 
 ## Languages and tools
