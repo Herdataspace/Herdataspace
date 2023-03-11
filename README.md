@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: she/her
 
-## What I've been up to
+## Currently working on
 
 - As part of my training with AiCORE, I am working through a number of projects:
   - **Movie Assistant** - developing basic python syntax to create a command-line application to select a movie from a dictionary of films
