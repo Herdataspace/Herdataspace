@@ -32,5 +32,5 @@
 
 ## 🤝🏻 Connect with me
 
-<a href="https://www.linkedin.com/in/stephanie-hunter111/">LinkedIn</a> 
+<code><a href="www.linkedin.com/in/stephanie-hunter111/"><img height="40" src="https://user-images.githubusercontent.com/117936304/224483828-acc05960-2d1e-4050-8c5d-d09f9e9b1649.png" alt="LinkedIn" title="LinkedIn" /></a></code>
   
