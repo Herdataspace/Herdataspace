@@ -5,9 +5,9 @@
 
 ## A bit about me 
 
-- 🎓 Molecular Medicine MSc graduate - looking to transition to the tech industry.
+- 🎓 Molecular Medicine MSc graduate - currently working as a Diabetes Research Technician.
 
-- 🤖 Passionate about using data and ML technology to solve problems in public health, sustainability, education, and combat social inequality!
+- 🤖 Passionate about using data and ML technology to solve problems in molcular biology research, public health, sustainability, and social inequality!
 
 - 🌱 Training in AI and Data Engineering at <a href="https://www.theaicore.com/">**AiCORE**</a>
 
