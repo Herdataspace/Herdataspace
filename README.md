@@ -7,7 +7,7 @@
 
 - 🎓 Molecular Medicine MSc graduate - currently working as a Diabetes Research Technician.
 
-- 🤖 Passionate about using data and ML technology to solve problems in molcular biology research, public health, sustainability, and social inequality!
+- 🤖 Passionate about using data and ML technology to solve problems in molcular biology research, public health, sustainability, and for social good!
 
 - 🌱 Training in AI and Data Engineering at <a href="https://www.theaicore.com/">**AiCORE**</a>
 
