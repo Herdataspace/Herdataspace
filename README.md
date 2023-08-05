@@ -5,7 +5,7 @@
 
 ## A bit about me 
 
-- 🎓 Molecular Medicine MSc graduate - currently working as a Diabetes Research Technician.
+- 🔬 Diabetes Research Technician and Molecular Medicine graduate.
 
 - 🤖 Passionate about using data and ML technology to solve problems in molcular biology research, public health, sustainability, and for social good!
 
