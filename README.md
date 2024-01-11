@@ -1,11 +1,11 @@
 # Hello! I'm Stephanie. 👋 
 
-- 👩‍💻 An aspiring Data Scientist from Sheffield, UK 🇬🇧
+- 👩‍💻 An aspiring Data Scientist living in Exeter, UK 🇬🇧
 
 
 ## A bit about me 
 
-- 🔬 PhD student in in Type 1 Diabetes and Molecular Medicine graduate.
+- 🔬 PhD student in Type 1 Diabetes and Molecular Medicine graduate.
 
 - 🤖 Passionate about using data and ML technology to solve problems in molcular biology/immunology research, public health, sustainability, and for social good!
 
