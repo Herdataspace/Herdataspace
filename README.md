@@ -5,9 +5,9 @@
 
 ## A bit about me 
 
-- 🔬 Diabetes Research Technician and Molecular Medicine graduate.
+- 🔬 PhD student in in Type 1 Diabetes and Molecular Medicine graduate.
 
-- 🤖 Passionate about using data and ML technology to solve problems in molcular biology research, public health, sustainability, and for social good!
+- 🤖 Passionate about using data and ML technology to solve problems in molcular biology/immunology research, public health, sustainability, and for social good!
 
 - 🌱 Training in AI and Data Engineering at <a href="https://www.theaicore.com/">**AiCORE**</a>
 
