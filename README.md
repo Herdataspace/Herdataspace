@@ -5,9 +5,11 @@
 
 ## A bit about me 
 
-- 🔬 PhD student in Type 1 Diabetes and Molecular Medicine graduate.
+- 🔬 A PhD student using cell-based and flow-cytometry approaches to investigate the immune response in type 1 Diabetes
 
-- 🤖 Passionate about using bioinformatics to understanding biological problems in molcular biology/immunology research
+- 👩‍🎓 Molecular Medicine (MSc) and Biomedical Science (BSc) graduate from The University of Sheffield.
+
+- 🤖 Passionate about using bioinformatics to understanding biological problems in immunology and disease.
 
 - 🌱 Training in AI and Data Engineering at <a href="https://www.theaicore.com/">**AiCORE**</a>
 
