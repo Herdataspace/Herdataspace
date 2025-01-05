@@ -1,13 +1,13 @@
 # Hello! I'm Stephanie. 👋 
 
-- 👩‍💻 An aspiring Data Scientist living in Exeter, UK 🇬🇧
+- 👩‍💻 An aspiring bioinformatician living in Exeter, UK 🇬🇧
 
 
 ## A bit about me 
 
 - 🔬 PhD student in Type 1 Diabetes and Molecular Medicine graduate.
 
-- 🤖 Passionate about using data and ML technology to solve problems in molcular biology/immunology research, public health, sustainability, and for social good!
+- 🤖 Passionate about using bioinformatics to understanding biological problems in molcular biology/immunology research
 
 - 🌱 Training in AI and Data Engineering at <a href="https://www.theaicore.com/">**AiCORE**</a>
 
