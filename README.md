@@ -5,7 +5,7 @@
 
 ## A bit about me 
 
-- 🔬 A PhD student using cell-based and flow-cytometry approaches to investigate the immune response in type 1 Diabetes
+- 🔬 PhD student at the University of Exeter, using cell-based and flow-cytometry approaches to investigate the immune response in type 1 Diabetes
 
 - 👩‍🎓 Molecular Medicine (MSc) and Biomedical Science (BSc) graduate from The University of Sheffield.
 
