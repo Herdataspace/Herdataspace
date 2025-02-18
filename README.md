@@ -1,11 +1,11 @@
 # Hello! I'm Stephanie. 👋 
 
-- 👩‍💻 An aspiring bioinformatician living in Exeter, UK 🇬🇧
+- 👩‍💻 An aspiring immunologist and computational biologist living in Exeter, UK 🇬🇧
 
 
 ## A bit about me 
 
-- 🔬 PhD student at the University of Exeter, using cell-based and flow-cytometry approaches to investigate the immune response in type 1 Diabetes
+- 🔬 PhD student at the University of Exeter, using cell-based and flow-cytometry approaches to investigate the autoimmune response in type 1 Diabetes
 
 - 👩‍🎓 Molecular Medicine (MSc) and Biomedical Science (BSc) graduate from The University of Sheffield.
 
